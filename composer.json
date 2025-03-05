@@ -51,8 +51,8 @@
         "brianium/paratest": "^6.1|^7.0",
         "friendsofphp/php-cs-fixer": "^2.18|^3.0",
         "mockery/mockery": "^1.3",
-        "orchestra/testbench": "^7.0|^8.0|^9.0",
-        "phpunit/phpunit": "^9.0|^10.0",
+        "orchestra/testbench": "^7.0|^8.0|^9.0|^10.0",
+        "phpunit/phpunit": "^9.0|^10.0|^11.5.3",
         "predis/predis": "*"
     },
     "autoload": {
